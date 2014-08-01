@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-wysiwyg",
+  "description": "Tiny bootstrap-compatible WISWYG rich text editor",
+  "dependencies": {
+    "tzuryby/jquery.hotkeys": "*"
+  },
+  "scripts": [
+    "bootstrap-wysiwyg.js"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "main": "bootstrap-wysiwyg.js"
+}
